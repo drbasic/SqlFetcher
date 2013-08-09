@@ -1,0 +1,2 @@
+Data Source=(local);Initial Catalog=btr;Integrated Security=True
+Data Source=(local);Initial Catalog=swiki;Integrated Security=True
